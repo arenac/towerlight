@@ -1,1 +1,6 @@
 /bin/
+/obj/
+/ClassLibrary1/
+/lighttower_dotnet/
+/.vscode/
+/.vs/
