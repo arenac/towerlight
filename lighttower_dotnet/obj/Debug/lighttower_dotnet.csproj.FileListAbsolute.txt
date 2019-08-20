@@ -1,0 +1,9 @@
+C:\lighttower\lighttower_dotnet\obj\Debug\lighttower_dotnet.csproj.CoreCompileInputs.cache
+C:\lighttower\lighttower_dotnet\bin\Debug\lighttower_dotnet.exe.config
+C:\lighttower\lighttower_dotnet\bin\Debug\lighttower_dotnet.exe
+C:\lighttower\lighttower_dotnet\bin\Debug\lighttower_dotnet.pdb
+C:\lighttower\lighttower_dotnet\bin\Debug\Topshelf.dll
+C:\lighttower\lighttower_dotnet\bin\Debug\Topshelf.xml
+C:\lighttower\lighttower_dotnet\obj\Debug\lighttower_dotnet.csprojResolveAssemblyReference.cache
+C:\lighttower\lighttower_dotnet\obj\Debug\lighttower_dotnet.exe
+C:\lighttower\lighttower_dotnet\obj\Debug\lighttower_dotnet.pdb
